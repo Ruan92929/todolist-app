@@ -1,6 +1,6 @@
 # To-Do List App
 
-**Este é um simples aplicativo de lista de tarefas desenvolvido usando React e integrado com uma API RESTful hospedada no Microsoft Azure.**
+**Lista de tarefas desenvolvida utilizando React e integrada com uma API RESTful hospedada no Microsoft Azure.**
 
 ## Funcionalidades
 
